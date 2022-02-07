@@ -1,0 +1,62 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"2543a3a0-683c-4560-8a80-142b6214a96b\" name=\"Changes\" comment=\"commit\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_28_2021_5_53_PM_[Changes]/shelved.patch\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_28_2021_5_53_PM__Changes_.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/deliverysystem/salami_pizza.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/deliverysystem/static/images/salami_pizza.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/deliverysystem/static/images/superPizza.jpg\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/deliverysystem/superPizza.jpg\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/deliverysystem/users/migrations/0006_auto_20211228_1834.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/deliverysystem/users/migrations/0007_auto_20211228_1846.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/deliverysystem/users/static/users/images/salami pizza.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/deliverysystem/users/static/users/images/superPizza.jpg\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/deliverysystem/users/templates/users/clientRestaurant.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/deliverysystem/deliverysystem/settings.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/deliverysystem/deliverysystem/settings.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/deliverysystem/users/models.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/deliverysystem/users/models.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/deliverysystem/users/templates/users/adminRestaurant.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/deliverysystem/users/templates/users/adminRestaurant.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/deliverysystem/users/urls.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/deliverysystem/users/urls.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/deliverysystem/users/views.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/deliverysystem/users/views.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"UPDATE_TYPE\" value=\"REBASE\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"22v33r3ySu3ETGxeTracGoGgP7y\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"2543a3a0-683c-4560-8a80-142b6214a96b\" name=\"Changes\" comment=\"\" />\r\n      <created>1640704037675</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1640704037675</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"commit\">\r\n      <created>1640707225773</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1640707225774</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -2,21 +2,9 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="2543a3a0-683c-4560-8a80-142b6214a96b" name="Changes" comment="commit">
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_28_2021_5_53_PM_[Changes]/shelved.patch" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_28_2021_5_53_PM__Changes_.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/deliverysystem/salami_pizza.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/deliverysystem/static/images/salami_pizza.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/deliverysystem/static/images/superPizza.jpg" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/deliverysystem/superPizza.jpg" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/deliverysystem/users/migrations/0006_auto_20211228_1834.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/deliverysystem/users/migrations/0007_auto_20211228_1846.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/deliverysystem/users/static/users/images/salami pizza.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/deliverysystem/users/static/users/images/superPizza.jpg" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/deliverysystem/users/templates/users/clientRestaurant.html" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/deliverysystem/deliverysystem/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/deliverysystem/deliverysystem/settings.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/deliverysystem/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/deliverysystem/users/models.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/deliverysystem/users/templates/users/adminRestaurant.html" beforeDir="false" afterPath="$PROJECT_DIR$/deliverysystem/users/templates/users/adminRestaurant.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/deliverysystem/salami_pizza.png" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/deliverysystem/superPizza.jpg" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/deliverysystem/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/deliverysystem/users/urls.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/deliverysystem/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/deliverysystem/users/views.py" afterDir="false" />
+     </list>
+@@ -33,6 +21,11 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+@@ -67,7 +60,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1640707225774</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="commit">
++      <created>1640784961915</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1640784961915</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">

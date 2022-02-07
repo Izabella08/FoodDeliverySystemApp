@@ -1,0 +1,79 @@
+{% extends 'users/base.html' %}
+{% load static %}
+{% block content %}
+<link rel="stylesheet" href="{% static 'users/css/main1.css' %}">
+<div class="container mb-5">
+    <style>
+        body {
+            background-image: url({% static 'users/images/b.png' %});
+        }
+    </style>
+</div>
+
+   <div class="container">
+    <div class="row justify-content-center mt-5">
+        <div class="col-md-8 col-sm-12 offset-md-1 p-4 text-center">
+            <h1><strong >{{product.product_name}}</strong></h1>
+        </div>
+
+        <div class="box-element">
+            <form method="POST" class="post-form" action="/adminProductEdit/{{product.id}}/">
+                {% csrf_token %}
+                <div id="product-info-name">
+                    <div class="form-field">
+                        <h6>Name: {{product.product_name}}</h6>
+                    </div>
+                    <div class="form-field">
+                        <input class="form-control" type="text" name="name" value="{{product.product_name}}">
+                    </div>
+                </div>
+
+                <div id="product-info-description">
+                    <hr>
+                    <div class="form-field">
+                        <h6>Description: {{product.product_description}}</h6>
+                    </div>
+                    <div class="form-field">
+                        <input class="form-control" type="text" name="description" value="{{product.product_description}}" placeholder="New description">
+                    </div>
+                </div>
+
+                 <div id="product-info-price">
+                    <hr>
+                    <div class="form-field">
+                        <h6>Price: {{product.product_price}}</h6>
+                    </div>
+                    <div class="form-field">
+                        <input class="form-control" type="text" name="price" value="{{product.product_price}}" placeholder="New price">
+                    </div>
+                </div>
+
+                <div id="product-info-vegan">
+                    <hr>
+                    <div class="form-field">
+                        <h6>Is vegan: {{product.vegan}}</h6>
+                    </div>
+                    <div class="form-field">
+                        <input class="form-control" type="text" id="vegan" name="vegan" value="False" >
+                    </div>
+                </div>
+
+                <div id="product-info-vegetarion">
+                    <hr>
+                    <div class="form-field">
+                        <h6>Is vegetarian: {{product.vegan}}</h6>
+                    </div>
+                    <div class="form-field">
+                        <input class="form-control" type="text" id="vegetarian" name="vegetarian" value="False">
+                    </div>
+                </div>
+
+                <hr>
+                <input type="submit" value="OK">
+
+            </form>
+        </div>
+    </div>
+
+    </div>
+{% endblock content %}
